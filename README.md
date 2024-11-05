@@ -1,4 +1,5 @@
 npm install -g json-server
+
 npm install
 
 terminal #1 // Запускаем имитацию backend
