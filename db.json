@@ -1,0 +1,145 @@
+{
+  "users": [ 
+    {
+        "id": 1,
+        "name": "Bekzat",
+        "image": "https://www.pngitem.com/pimgs/m/181-1818647_100-by-100-pixel-hd-png-download.png",
+        "type": "video",
+        "createdDate": "2024-08-29"
+    },
+    {
+        "id": 2,
+        "name": "Arman",
+        "image": "https://www.pngitem.com/pimgs/m/181-1818647_100-by-100-pixel-hd-png-download.png",
+        "type": "video",
+        "createdDate": "2024-10-26"
+    },
+    {
+        "id": 3,
+        "name": "Aruzhan",
+        "image": "https://www.pngitem.com/pimgs/m/181-1818647_100-by-100-pixel-hd-png-download.png",
+        "type": "image",
+        "createdDate": "2024-11-03"
+    },
+    {
+        "id": 4,
+        "name": "Dias",
+        "image": "https://www.pngitem.com/pimgs/m/181-1818647_100-by-100-pixel-hd-png-download.png",
+        "type": "image",
+        "createdDate": "2024-09-26"
+    },
+    {
+        "id": 5,
+        "name": "Aidos",
+        "image": "https://i.pinimg.com/474x/d2/4b/be/d24bbe79387549086d159aa4462bf4c9.jpg",
+        "type": "image",
+        "createdDate": "2024-09-03"
+    },
+    {
+        "id": 6,
+        "name": "Altynai",
+        "image": "https://i.pinimg.com/474x/d2/4b/be/d24bbe79387549086d159aa4462bf4c9.jpg",
+        "type": "video",
+        "createdDate": "2024-10-14"
+    },
+    {
+        "id": 7,
+        "name": "Nursultan",
+        "image": "https://i.pinimg.com/474x/d2/4b/be/d24bbe79387549086d159aa4462bf4c9.jpg",
+        "type": "video",
+        "createdDate": "2024-10-13"
+    },
+    {
+        "id": 8,
+        "name": "Aliya",
+        "image": "https://i.pinimg.com/474x/d2/4b/be/d24bbe79387549086d159aa4462bf4c9.jpg",
+        "type": "video",
+        "createdDate": "2024-10-30"
+    },
+    {
+        "id": 9,
+        "name": "Madina",
+        "image": "https://i.pinimg.com/474x/d2/4b/be/d24bbe79387549086d159aa4462bf4c9.jpg",
+        "type": "video",
+        "createdDate": "2024-08-15"
+    },
+    {
+        "id": 10,
+        "name": "Yerzhan",
+        "image": "https://i.pinimg.com/1200x/ef/5d/6d/ef5d6dfb8a890f3dd14fc088e40e2cb5.jpg",
+        "type": "video",
+        "createdDate": "2024-10-04"
+    },
+    {
+        "id": 11,
+        "name": "Dana",
+        "image": "https://i.pinimg.com/1200x/ef/5d/6d/ef5d6dfb8a890f3dd14fc088e40e2cb5.jpg",
+        "type": "video",
+        "createdDate": "2024-10-23"
+    },
+    {
+        "id": 12,
+        "name": "Bauyrzhan",
+        "image": "https://i.pinimg.com/1200x/ef/5d/6d/ef5d6dfb8a890f3dd14fc088e40e2cb5.jpg",
+        "type": "image",
+        "createdDate": "2024-09-27"
+    },
+    {
+        "id": 13,
+        "name": "Dinara",
+        "image": "https://i.pinimg.com/1200x/ef/5d/6d/ef5d6dfb8a890f3dd14fc088e40e2cb5.jpg",
+        "type": "video",
+        "createdDate": "2024-08-22"
+    },
+    {
+        "id": 14,
+        "name": "Adil",
+        "image": "https://i.pinimg.com/1200x/ef/5d/6d/ef5d6dfb8a890f3dd14fc088e40e2cb5.jpg",
+        "type": "image",
+        "createdDate": "2024-08-18"
+    },
+    {
+        "id": 15,
+        "name": "Asel",
+        "image": "https://w7.pngwing.com/pngs/453/918/png-transparent-pixel-cat-thumbnail.png",
+        "type": "image",
+        "createdDate": "2024-11-03"
+    },
+    {
+        "id": 16,
+        "name": "Sanzhar",
+        "image": "https://w7.pngwing.com/pngs/453/918/png-transparent-pixel-cat-thumbnail.png",
+        "type": "image",
+        "createdDate": "2024-09-09"
+    },
+    {
+        "id": 17,
+        "name": "Gulnaz",
+        "image": "https://w7.pngwing.com/pngs/453/918/png-transparent-pixel-cat-thumbnail.png",
+        "type": "image",
+        "createdDate": "2024-09-15"
+    },
+    {
+        "id": 18,
+        "name": "Daulet",
+        "image": "https://w7.pngwing.com/pngs/453/918/png-transparent-pixel-cat-thumbnail.png",
+        "type": "video",
+        "createdDate": "2024-09-26"
+    },
+    {
+        "id": 19,
+        "name": "Zhanar",
+        "image": "https://w7.pngwing.com/pngs/453/918/png-transparent-pixel-cat-thumbnail.png",
+        "type": "video",
+        "createdDate": "2024-09-02"
+    },
+    {
+        "id": 20,
+        "name": "Rustem",
+        "image": "https://w7.pngwing.com/pngs/453/918/png-transparent-pixel-cat-thumbnail.png",
+        "type": "video",
+        "createdDate": "2024-08-09"
+    }
+]
+}
+
